@@ -2,7 +2,6 @@
 *.acr
 *.alg
 *.aux
-*.bbl
 *.blg
 *.dvi
 *.fdb_latexmk
@@ -30,3 +29,4 @@
 *.vrb
 *.xdy
 *.tdo
+.Rproj.user
